@@ -15,10 +15,32 @@ class ViewController: UIViewController {
     @IBOutlet weak var secondNameTextField: UITextField!
    
     
-    
+    //MARK: viewDidLoad -  a partir do momento que a esta é renderizada com todos os elemento o "viewDidLoad" é executado o metdos é executado apenas uma unica vez dento do ciclo de vida
     override func viewDidLoad() {
         super.viewDidLoad()
+        print(#function)
     }
+
+    //MARK: viewWillAppear -  Esse metodos é disparado antes da tela está sendo carregada ou renderizando o metodo "viewWillAppear" será disparado
+    override func viewWillAppear(_ animated: Bool) {
+        print(#function)
+    }
+    
+    //MARK: viewDidAppear - Esse metodo é disparado toda vez que a tela ja estive toda renderizada, o metodo será disparado
+    override func viewDidAppear(_ animated: Bool) {
+        print(#function)
+    }
+    
+    //MARK: viewWillDisappear - Esse metodo é disparado toda vez que sair da tela
+    override func viewWillDisappear(_ animated: Bool) {
+        print(#function)
+    }
+    
+    //MARK: viewDidDisappear - Esse metodo é disparado toda vez que sair da tela
+    override func viewDidDisappear(_ animated: Bool) {
+        print(#function)
+    }
+
 
     @IBAction func tappedGoScreenButton(_ sender: UIButton) {
         

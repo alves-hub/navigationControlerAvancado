@@ -14,10 +14,10 @@
             filePath = "NavigationAvancadaCurso/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "64"
-            endingLineNumber = "64"
-            landmarkName = "tappedGoScreenButton(_:)"
-            landmarkType = "7">
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "ViewController"
+            landmarkType = "3">
             <Locations>
                <Location
                   uuid = "DD66ABAA-D916-4BC3-9FFE-9BD1A9E0CB9A - 122b7a27a4b97af9"
@@ -77,10 +77,10 @@
             filePath = "NavigationAvancadaCurso/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "65"
-            endingLineNumber = "65"
-            landmarkName = "ViewController"
-            landmarkType = "3">
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -93,57 +93,42 @@
             filePath = "NavigationAvancadaCurso/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "33"
-            endingLineNumber = "33"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
             landmarkName = "tappedGoScreenButton(_:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "FA8AB8AC-95F3-4995-81BE-6230A5C83699 - 122b7a27a4b97abb"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "NavigationAvancadaCurso.ViewController.tappedGoScreenButton(__C.UIButton) -&gt; ()"
-                  moduleName = "NavigationAvancadaCurso"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/navigationControlerAvancado/NavigationAvancadaCurso/NavigationAvancadaCurso/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "36"
-                  endingLineNumber = "36"
-                  offsetFromSymbolStart = "336">
-               </Location>
-               <Location
-                  uuid = "FA8AB8AC-95F3-4995-81BE-6230A5C83699 - 122b7a27a4b94454"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "NavigationAvancadaCurso.ViewController.tappedGoScreenButton(__C.UIButton) -&gt; ()"
-                  moduleName = "NavigationAvancadaCurso"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/navigationControlerAvancado/NavigationAvancadaCurso/NavigationAvancadaCurso/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "47"
-                  endingLineNumber = "47"
-                  offsetFromSymbolStart = "60">
-               </Location>
-               <Location
-                  uuid = "FA8AB8AC-95F3-4995-81BE-6230A5C83699 - 122b7a27a4b944c8"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "NavigationAvancadaCurso.ViewController.tappedGoScreenButton(__C.UIButton) -&gt; ()"
-                  moduleName = "NavigationAvancadaCurso"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/navigationControlerAvancado/NavigationAvancadaCurso/NavigationAvancadaCurso/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "51"
-                  endingLineNumber = "51"
-                  offsetFromSymbolStart = "60">
-               </Location>
-            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A0D29B2-CE37-41D0-AAD5-A033123CC35E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NavigationAvancadaCurso/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC8C5C29-5C6F-4292-AC5B-7E22248DBAA3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NavigationAvancadaCurso/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
